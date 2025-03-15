@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 .idea/
 
-=======
 # Byte-compiled / optimized / DLL files
 **/__pycache__/
 **/*.py[cod]
@@ -222,4 +220,3 @@ cython_debug/
 
 # IntelliJ IDEA
 .idea/
->>>>>>> a495e13 (Updated repo with new projects, notes, and exercises)

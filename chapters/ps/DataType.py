@@ -1,5 +1,5 @@
 #string type data
-name = "Tanmoy Sarker Shuvo"
+name = "Tanmoy"
 print(name)
 
 # int type data

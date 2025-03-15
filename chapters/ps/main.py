@@ -1,5 +1,5 @@
 # this is single line comment print variable
-print("Tanmoy Sarker Shuvo")
+print("Tanmoy")
 """
 Tanmoy is a value 
 and this is malti line 
@@ -24,7 +24,7 @@ store anything
 """
 name = "Tanmoy"
 print(name)
-number = 4567845678
+number = 234567834567
 print(number)
 
 #datatype
