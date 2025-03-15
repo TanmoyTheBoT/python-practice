@@ -1,0 +1,80 @@
+{
+    "tasks": [
+        {
+            "description": "Buy groceries",
+            "complete": false
+        },
+        {
+            "description": "Read a book",
+            "complete": false
+        },
+        {
+            "description": "Write a blog post",
+            "complete": false
+        },
+        {
+            "description": "Exercise for 30 minutes",
+            "complete": false
+        },
+        {
+            "description": "Clean the house",
+            "complete": false
+        },
+        {
+            "description": "Finish project report",
+            "complete": false
+        },
+        {
+            "description": "Pay bills",
+            "complete": false
+        },
+        {
+            "description": "Attend team meeting",
+            "complete": false
+        },
+        {
+            "description": "Plan weekend trip",
+            "complete": false
+        },
+        {
+            "description": "Update resume",
+            "complete": false
+        },
+        {
+            "description": "Learn a new programming language",
+            "complete": false
+        },
+        {
+            "description": "Organize workspace",
+            "complete": false
+        },
+        {
+            "description": "Meditate for 10 minutes",
+            "complete": false
+        },
+        {
+            "description": "Water the plants",
+            "complete": false
+        },
+        {
+            "description": "Schedule a doctor's appointment",
+            "complete": false
+        },
+        {
+            "description": "Cook dinner",
+            "complete": false
+        },
+        {
+            "description": "Watch a movie",
+            "complete": false
+        },
+        {
+            "description": "Plan weekly meals",
+            "complete": false
+        },
+        {
+            "description": "Review monthly budget",
+            "complete": false
+        }
+    ]
+}
